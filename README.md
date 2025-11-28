@@ -85,9 +85,9 @@ class MiFilosofia
 
 ## 📫 Contacto
 
-- 💼 LinkedIn: [Miguel Olivera](https://linkedin.com/in/mikeoliveradev)
-- 📧 Email: mikeoliveradev@gmail.com
-- 🌐 Portfolio: [En construcción]
+- 💼 GitHub: [@mikeoliveradev](https://github.com/mikeoliveradev)
+- 📧 Email: rinoceronte.digital@gmail.com
+- 🌐 Portfolio: [mikeolivera.com](https://mikeolivera.com)
 - 🐦 Twitter: [@mikeoliveradev](https://twitter.com/mikeoliveradev)
 
 ## 📈 Actividad Reciente
