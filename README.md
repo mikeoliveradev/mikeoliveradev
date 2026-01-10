@@ -40,7 +40,7 @@ Plataforma integral de gestión y reportes para partido político
 - **Features**: Sistema de afiliaciones, gestión de auxiliares, reportes estadísticos, chat interno
 - **Seguridad**: Manejo de datos sensibles con variables de entorno
 
-### 🌊 [BreezeMVC](https://github.com/mikeoliveradev/hello-git)
+### 🌊 [BreezeMVC](https://github.com/mikeoliveradev/breezemvc)
 Template PHP MVC ultraligero y moderno
 - **Tech**: Vanilla PHP, PSR-12
 - **Features**: Sistema de rutas, validación de formularios, migraciones de BD, CLI helper
